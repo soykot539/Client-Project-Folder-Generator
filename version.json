@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "versionCode": 200,
+  "releaseDate": "2026-09-23",
+  "title": "Client Project Folder Generator v2.0.0 Official Release",
+  "changelog": [
+    "• 1-Click Client Project Folder Scaffolding with 5 standard subfolders.",
+    "• In-App 1-Click Auto-Updater & Version Checker (F5).",
+    "• Windows Right-Click Context Menu integration.",
+    "• 6 Dynamic Themes with Windows System Dark/Light auto-detection.",
+    "• Full offline template asset synchronization & recent clients history."
+  ],
+  "downloadUrl": "https://github.com/soikot/Client-Project-Folder-Generator/releases/download/v2.0.0/Setup_ClientProjectGenerator.exe",
+  "mandatory": false
+}

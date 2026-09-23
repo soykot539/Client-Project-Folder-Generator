@@ -1,0 +1,12 @@
+# Binaries & Temp Files
+*.obj
+*.pdb
+*.tmp
+*.log
+bin/
+obj/
+.vs/
+.vscode/
+
+# Keep main setup and source files
+!Setup_ClientProjectGenerator.exe
