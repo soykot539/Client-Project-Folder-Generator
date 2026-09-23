@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
-  "versionCode": 200,
+  "version": "2.0.1",
+  "versionCode": 201,
   "releaseDate": "2026-09-23",
-  "title": "Client Project Folder Generator v2.0.0 Official Release",
+  "title": "Client Project Folder Generator v2.0.1 Official Release",
   "changelog": [
-    "• 1-Click Client Project Folder Scaffolding with 5 standard subfolders.",
-    "• In-App 1-Click Auto-Updater & Version Checker (F5).",
-    "• Windows Right-Click Context Menu integration.",
+    "• Custom Template Isolation: Option to disable standard 5 subfolders when using custom templates.",
+    "• In-App 1-Click Auto-Updater: Instant check (F5) and seamless self-update.",
+    "• Windows Right-Click Context Menu integration for 1-click project creation.",
     "• 6 Dynamic Themes with Windows System Dark/Light auto-detection.",
     "• Full offline template asset synchronization & recent clients history."
   ],
