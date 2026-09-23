@@ -1,12 +1,12 @@
 {
-  "version": "2.0.3",
-  "versionCode": 203,
+  "version": "2.0.4",
+  "versionCode": 204,
   "releaseDate": "2026-09-23",
-  "title": "Client Project Folder Generator v2.0.3 Official Release",
+  "title": "Client Project Folder Generator v2.0.4 Official Release",
   "changelog": [
-    "• Dynamic Root Folders: Multiple Root Folders dropdown history & instant 1-click switching.",
-    "• Context Menu Auto-Root: Right-click inside any folder in Windows Explorer to auto-set it as the Root folder.",
-    "• Active Explorer Detection: Tools menu shortcut (Ctrl+Shift+O) to automatically grab active Windows folder.",
+    "• New Bright & Vibrant 3D App Icon: Ultra-visible glowing electric folder logo.",
+    "• Clean Spacious UI: Restored perfectly balanced full-width Root & Template path inputs.",
+    "• Windows Right-Click Auto-Root: Right-click inside any folder in Windows Explorer to auto-set it as Root.",
     "• Custom Template Isolation, Clean Success Dialog, and Auto-Close on Finish."
   ],
   "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_ClientProjectGenerator.exe",
