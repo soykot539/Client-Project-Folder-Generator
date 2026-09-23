@@ -1,7 +1,7 @@
 # Client Project Folder Generator
 
 <p align="center">
-  <img src="Source_Code/app.ico" width="100" height="100" alt="App Icon">
+  <img src="assets/app.ico" width="100" height="100" alt="App Icon">
 </p>
 
 <p align="center">
@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Version-2.0.0_Pro-blue.svg?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows_10_|_11-0078D6.svg?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square" alt="License">
+</p>
+
+<p align="center">
+  <a href="https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_ClientProjectGenerator.exe">
+    <img src="https://img.shields.io/badge/📥_Download_for_Windows-v2.0.0_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
+  </a>
 </p>
 
 ---
@@ -46,7 +52,7 @@
 
 ## 📥 Installation
 
-1. Download **`Setup_ClientProjectGenerator.exe`** from the [Latest Releases](../../releases/latest).
+1. Download **[Setup_ClientProjectGenerator.exe](https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_ClientProjectGenerator.exe)**.
 2. Run the installer and click **Install Now**.
 3. Launch and start creating client projects in seconds!
 

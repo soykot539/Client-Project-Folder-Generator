@@ -10,6 +10,6 @@
     "• 6 Dynamic Themes with Windows System Dark/Light auto-detection.",
     "• Full offline template asset synchronization & recent clients history."
   ],
-  "downloadUrl": "https://github.com/soikot/Client-Project-Folder-Generator/releases/download/v2.0.0/Setup_ClientProjectGenerator.exe",
+  "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_ClientProjectGenerator.exe",
   "mandatory": false
 }

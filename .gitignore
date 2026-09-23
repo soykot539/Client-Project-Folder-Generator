@@ -8,5 +8,10 @@ obj/
 .vs/
 .vscode/
 
-# Keep main setup and source files
+# Keep main setup, assets and version.json
 !Setup_ClientProjectGenerator.exe
+!version.json
+!assets/
+
+# Keep Source Code private locally
+Source_Code/
