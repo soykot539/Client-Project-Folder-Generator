@@ -1,14 +1,13 @@
 {
-  "version": "2.0.1",
-  "versionCode": 201,
+  "version": "2.0.2",
+  "versionCode": 202,
   "releaseDate": "2026-09-23",
-  "title": "Client Project Folder Generator v2.0.1 Official Release",
+  "title": "Client Project Folder Generator v2.0.2 Official Release",
   "changelog": [
-    "• Custom Template Isolation: Option to disable standard 5 subfolders when using custom templates.",
-    "• In-App 1-Click Auto-Updater: Instant check (F5) and seamless self-update.",
-    "• Windows Right-Click Context Menu integration for 1-click project creation.",
-    "• 6 Dynamic Themes with Windows System Dark/Light auto-detection.",
-    "• Full offline template asset synchronization & recent clients history."
+    "• Empty Project Title Fix: Prevents creating unnecessary 'Project' subfolder when title is left empty.",
+    "• Clean Success Dialog: Simplified popup to 'Folder Created Successfully'.",
+    "• Auto-Close Feature: Added option to automatically close the app once project creation is done.",
+    "• Custom Template Isolation and 1-Click Auto-Updater (F5)."
   ],
   "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_ClientProjectGenerator.exe",
   "mandatory": false
