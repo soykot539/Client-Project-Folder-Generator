@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <b>The Fastest, 1-Click Client & Project Folder Scaffolder for Motion Designers, Video Editors, and Content Creators.</b>
+  <b>The Fastest Client & Project Folder Scaffolder for Motion Designers, Video Editors, and Content Creators.</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.7_Pro-blue.svg?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.0.8_Pro-blue.svg?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows_10_|_11-0078D6.svg?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square" alt="License">
 </p>
 
 <p align="center">
   <a href="https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe">
-    <img src="https://img.shields.io/badge/📥_Download_FolderNest-v2.0.7_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
+    <img src="https://img.shields.io/badge/📥_Download_FolderNest-v2.0.8_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ## 🚀 Key Features
 
-- ⚡ **1-Click Folder Generation**: Automatically creates standardized project folders:
+- ⚡ **Instant Folder Generation**: Automatically creates standardized project folders:
   - `01.Project Files`
   - `02.Footage`
   - `03.Essential Elements`
@@ -39,7 +39,7 @@
   - `🌌 Cyber Blue`
   - `🔮 Synthwave Purple`
   - `🌲 Emerald Forest`
-- 🔄 **In-App 1-Click Auto-Updater**: Instant notification and 1-click seamless update download & install.
+- 🔄 **In-App Auto-Updater**: Instant notification and seamless update download & install.
 - 📁 **Automated Template Sync**: Automatically copies your preset project files, fonts, and assets into every new client project.
 - ⌨️ **Keyboard Shortcuts**:
   - `Ctrl + Enter` : Create Project Now

@@ -1,16 +1,16 @@
 {
-  "version": "2.0.7",
-  "versionCode": 207,
+  "version": "2.0.8",
+  "versionCode": 208,
   "releaseDate": "2026-09-30",
-  "title": "FolderNest v2.0.7 Official Release",
+  "title": "FolderNest v2.0.8 Official Release",
   "changelog": [
+    "• Clean UI Actions: Simplified Update button to clean 'UPDATE NOW' action.",
+    "• Streamlined Installer: Clean 'Installed Successfully!' completion dialog and polished interface.",
     "• Remember Last Root Smart Isolation: When ON, keeps your primary designated root folder even when right-clicking inside subdirectories.",
     "• Current Location Mode: When Remember Last Root is OFF, automatically uses the current location as the root directory.",
-    "• Window Title & Branding: Updated to FolderNest 2.0.7 across all interfaces.",
+    "• Window Title & Branding: Updated to FolderNest 2.0.8 across all interfaces.",
     "• New Radiant Red & Fiery Orange 3D Icon: Ultra-visible warm glowing folder & golden rocket logo.",
-    "• Windows Right-Click Integration: Instant project creation from Explorer context menus.",
-    "• Clean Spacious UI: Restored perfectly balanced full-width Root & Template path inputs.",
-    "• Custom Template Isolation, Clean Success Dialog, and Auto-Close on Finish."
+    "• Windows Right-Click Integration: Instant project creation from Explorer context menus."
   ],
   "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe",
   "mandatory": false
