@@ -1,12 +1,12 @@
 {
-  "version": "2.0.5",
-  "versionCode": 205,
+  "version": "2.0.6",
+  "versionCode": 206,
   "releaseDate": "2026-09-30",
-  "title": "FolderNest v2.0.5 Official Release",
+  "title": "FolderNest v2.0.6 Official Release",
   "changelog": [
+    "• Remember Last Root Persistence: Robust session saving and auto-load on start.",
+    "• Title & Header: Clean display of FolderNest 2.0.6 across window and header.",
     "• Rebranded to FolderNest: Clean, modern and punchy project generator.",
-    "• Version in Title: Now displays 'FolderNest 2.0.5' directly in the title bar.",
-    "• Remember Last Root: Auto-persists your last selected root folder across all sessions.",
     "• New Radiant Red & Fiery Orange 3D Icon: Ultra-visible warm glowing folder & golden rocket logo.",
     "• Windows Right-Click Integration: Instant project creation from Explorer context menus.",
     "• Clean Spacious UI: Restored perfectly balanced full-width Root & Template path inputs.",
