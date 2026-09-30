@@ -1,14 +1,17 @@
 {
-  "version": "2.0.4",
-  "versionCode": 204,
-  "releaseDate": "2026-09-23",
-  "title": "Client Project Folder Generator v2.0.4 Official Release",
+  "version": "2.0.5",
+  "versionCode": 205,
+  "releaseDate": "2026-09-30",
+  "title": "FolderNest v2.0.5 Official Release",
   "changelog": [
+    "• Rebranded to FolderNest: Clean, modern and punchy project generator.",
+    "• Version in Title: Now displays 'FolderNest 2.0.5' directly in the title bar.",
+    "• Remember Last Root: Auto-persists your last selected root folder across all sessions.",
     "• New Radiant Red & Fiery Orange 3D Icon: Ultra-visible warm glowing folder & golden rocket logo.",
-    "• Windows Right-Click Integration: High-contrast red/orange icon in Windows Explorer context menus.",
+    "• Windows Right-Click Integration: Instant project creation from Explorer context menus.",
     "• Clean Spacious UI: Restored perfectly balanced full-width Root & Template path inputs.",
     "• Custom Template Isolation, Clean Success Dialog, and Auto-Close on Finish."
   ],
-  "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_ClientProjectGenerator.exe",
+  "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe",
   "mandatory": false
 }
