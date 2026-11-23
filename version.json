@@ -1,13 +1,14 @@
 {
-  "version": "2.0.9",
-  "versionCode": 209,
+  "version": "2.1.0",
+  "versionCode": 210,
   "releaseDate": "2026-11-23",
-  "title": "FolderNest v2.0.9 Release",
+  "title": "FolderNest v2.1.0 Major Update",
   "changelog": [
     "• Instant Folder Creation: Removed the confirmation dialog so projects are created instantly without having to click OK.",
     "• Single Enter Shortcut: Pressing Enter now triggers project creation, with a clean button UI.",
     "• Unlimited Client History: Expanded memory so all past client names are retained and displayed without 15-item limits.",
     "• Smart Client Autocomplete: Real-time suggestion popup as you type client names, with Up/Down arrow navigation and Enter to apply.",
+    "• Instant Update Detection: Added real-time cache-busting so update notifications appear immediately when a new release is live.",
     "• Clean UI Actions: Simplified Update button to clean 'UPDATE NOW' action.",
     "• Streamlined Installer: Clean 'Installed Successfully!' completion dialog and polished interface.",
     "• Remember Last Root Smart Isolation: When ON, keeps your primary designated root folder even when right-clicking inside subdirectories.",

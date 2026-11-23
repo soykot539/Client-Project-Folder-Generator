@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.9_Pro-blue.svg?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.1.0_Pro-blue.svg?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows_10_|_11-0078D6.svg?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square" alt="License">
 </p>
 
 <p align="center">
   <a href="https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe">
-    <img src="https://img.shields.io/badge/📥_Download_FolderNest-v2.0.9_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
+    <img src="https://img.shields.io/badge/📥_Download_FolderNest-v2.1.0_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
   </a>
 </p>
 
