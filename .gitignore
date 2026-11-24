@@ -15,3 +15,7 @@ obj/
 
 # Keep Source Code private locally
 Source_Code/
+
+# macOS port lives in its own private repo
+macOS_App/
+macOS_Builds/

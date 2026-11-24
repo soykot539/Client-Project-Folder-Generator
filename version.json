@@ -15,5 +15,7 @@
     "• Windows Right-Click Integration: Instant project creation from Explorer context menus."
   ],
   "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe",
+  "macDownloadUrlArm64": "https://github.com/soykot539/Client-Project-Folder-Generator/releases/latest/download/FolderNest-macOS-arm64.dmg",
+  "macDownloadUrlX64": "https://github.com/soykot539/Client-Project-Folder-Generator/releases/latest/download/FolderNest-macOS-x86_64.dmg",
   "mandatory": false
 }
