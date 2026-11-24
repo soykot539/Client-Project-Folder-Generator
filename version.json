@@ -1,20 +1,20 @@
 {
-  "version": "2.1.0",
-  "versionCode": 210,
-  "releaseDate": "2026-11-23",
-  "title": "FolderNest v2.1.0 Major Update",
+  "version": "2.1.1",
+  "versionCode": 211,
+  "releaseDate": "2026-11-24",
+  "title": "FolderNest v2.1.1 Stability & Safety Update",
   "changelog": [
-    "• Instant Folder Creation: Removed the confirmation dialog so projects are created instantly without having to click OK.",
-    "• Single Enter Shortcut: Pressing Enter now triggers project creation, with a clean button UI.",
-    "• Unlimited Client History: Expanded memory so all past client names are retained and displayed without 15-item limits.",
-    "• Smart Client Autocomplete: Real-time suggestion popup as you type client names, with Up/Down arrow navigation and Enter to apply.",
-    "• Instant Update Detection: Added real-time cache-busting so update notifications appear immediately when a new release is live.",
-    "• Clean UI Actions: Simplified Update button to clean 'UPDATE NOW' action.",
-    "• Streamlined Installer: Clean 'Installed Successfully!' completion dialog and polished interface.",
-    "• Remember Last Root Smart Isolation: When ON, keeps your primary designated root folder even when right-clicking inside subdirectories.",
-    "• Windows Right-Click Integration: Instant project creation from Explorer context menus."
+    "• Fixed: Recent client and root folder history is no longer lost when a name or path contains [ ] brackets.",
+    "• Safer Install: FolderNest now always installs into its own 'FolderNest' folder.",
+    "• Safer Uninstall: Uninstalling removes only FolderNest's own files and never touches your other files.",
+    "• Smarter Updates: Updates install into your existing FolderNest folder instead of creating a second copy.",
+    "• Verified Updates: Downloaded updates are checked with a SHA-256 fingerprint before they run.",
+    "• Date Fix: The DD-MMM-YYYY format now always uses English month names (e.g. 24-Nov-2026), whatever your Windows language.",
+    "• Correct version number shown in the User Guide and About windows.",
+    "• New: FolderNest is now available for macOS (Apple Silicon & Intel)."
   ],
   "downloadUrl": "https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe",
+  "sha256": "BBC876A372CFA90DC67275D2C52E28431FBA4DF776ED0EB2DC084C3FA0FA5719",
   "macDownloadUrlArm64": "https://github.com/soykot539/Client-Project-Folder-Generator/releases/latest/download/FolderNest-macOS-arm64.dmg",
   "macDownloadUrlX64": "https://github.com/soykot539/Client-Project-Folder-Generator/releases/latest/download/FolderNest-macOS-x86_64.dmg",
   "mandatory": false

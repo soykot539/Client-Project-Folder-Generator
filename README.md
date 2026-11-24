@@ -9,23 +9,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.0_Pro-blue.svg?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.1.1_Pro-blue.svg?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows_|_macOS-0078D6.svg?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square" alt="License">
 </p>
 
 <p align="center">
   <a href="https://github.com/soykot539/Client-Project-Folder-Generator/raw/main/Setup_FolderNest.exe">
-    <img src="https://img.shields.io/badge/📥_Download_FolderNest-v2.1.0_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
+    <img src="https://img.shields.io/badge/📥_Download_FolderNest-v2.1.1_(Setup.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/soykot539/Client-Project-Folder-Generator/releases/latest/download/FolderNest-macOS-arm64.dmg">
-    <img src="https://img.shields.io/badge/_Mac_(Apple_Silicon)-v2.1.0_(.dmg)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac Apple Silicon">
+    <img src="https://img.shields.io/badge/_Mac_(Apple_Silicon)-v2.1.1_(.dmg)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac Apple Silicon">
   </a>
   <a href="https://github.com/soykot539/Client-Project-Folder-Generator/releases/latest/download/FolderNest-macOS-x86_64.dmg">
-    <img src="https://img.shields.io/badge/_Mac_(Intel)-v2.1.0_(.dmg)-555555?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac Intel">
+    <img src="https://img.shields.io/badge/_Mac_(Intel)-v2.1.1_(.dmg)-555555?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac Intel">
   </a>
 </p>
 
